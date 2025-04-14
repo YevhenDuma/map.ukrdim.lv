@@ -1,0 +1,31 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.127929, 56.941592]
+      },
+      "properties": {
+        "name": "UKRAINAS MĀJA LATVIJĀ",
+        "description": "UKRAINAS MĀJA LATVIJĀ",
+        "url": "https://ukrdim.lv/",
+        "address": "Rīga, Strūgu iela 4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [24.1068409, 56.9579591]
+      },
+      "properties": {
+        "name": "Embassy of Ukraine in Latvia",
+        "description": "Embassy of Ukraine",
+        "url": "https://www.mfa.gov.ua/latvia/",
+        "address": "Riga, Kalpaka bulvāris 3, LV-1010, Latvia"
+      }
+    }
+  ]
+}
